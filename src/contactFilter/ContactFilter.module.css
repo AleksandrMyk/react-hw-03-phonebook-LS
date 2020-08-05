@@ -1,0 +1,23 @@
+.filterForm {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: 0 auto;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.filterInput {
+  width: 400px;
+  border: 2px solid black;
+  height: 30px;
+  border-radius: 5px;
+}
+.filterLabel {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
